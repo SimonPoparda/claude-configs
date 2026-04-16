@@ -15,7 +15,7 @@
 
 **Dangerous actions — stop and ask first:**
 
-Before executing any of the following, clearly state what you are about to do and why, then wait for explicit approval (yes/no):
+Before executing any of the following, clearly state what you are about to do and why, then wait for explicit approval (y/n):
 
 - Deleting files or directories (permanently or via trash)
 - Any destructive git operation: `reset --hard`, `push --force`, `checkout .`, `clean -f`, branch deletion
@@ -39,16 +39,5 @@ When asking for approval, use this format:
 
 Do not proceed until the user responds. If the user says no, propose a safe alternative or ask how they want to handle it.
 
-## Full bypass
-
-To skip all permission prompts for an entire session (safe + dangerous), start Claude with:
-
-```bash
-claude --dangerously-skip-permissions
-```
-
-This bypasses the approval flow entirely. Use only in trusted, controlled environments.
-
-## Reminder
 
 If you are unsure whether an action is safe or dangerous, treat it as dangerous and ask.
