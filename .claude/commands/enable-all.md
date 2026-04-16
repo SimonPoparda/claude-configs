@@ -21,7 +21,7 @@ Fetch the latest version of both files and apply them for this session:
 
 ## 2. Guardrails
 
-@guardrails/auto-safe-mode/auto-safe-mode.md
+@.claude/commands/auto-safe-mode.md
 
 ## 3. Rules
 

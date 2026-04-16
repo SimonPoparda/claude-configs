@@ -1,13 +1,12 @@
 # claude-configs
 
-This repo stores skills, instructions, and configs for Claude Code.
+Guidelines and commands for Claude Code.
 
 @rules/project-setup.md
 @rules/plugin-activation.md
 
-## Sections
+## Contents
 
-- [`plugins/`](./plugins/) — Claude Code plugins and reliables (installed via the plugin system)
-- [`guardrails/`](./guardrails/) — Behavioral modes that scope Claude's autonomy and define approval rules
-- [`rules/`](./rules/) — Standing instructions always in effect
-- [`.claude/commands/`](./.claude/commands/) — Slash commands available in this repo
+- **`rules/`** — Standing instructions that are always active
+- **`plugins/`** — Reference docs for external Claude Code plugins
+- **`.claude/commands/`** — Slash commands (auto-safe-mode, enable-all)
