@@ -1,7 +1,3 @@
-# Auto-Safe Mode
-
-Auto-safe mode is now active for this session.
-
 ## Your operating rules
 
 **Scope:** You are restricted to the current project directory. Do not read, write, execute, or affect anything outside it without explicit approval.
@@ -39,7 +35,7 @@ When asking for approval, use this format:
 > Reason: <why this is needed>
 > Risk: <what cannot be undone>
 >
-> Proceed? (yes / no)
+> Proceed? (y / n)
 
 Do not proceed until the user responds. If the user says no, propose a safe alternative or ask how they want to handle it.
 
