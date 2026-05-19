@@ -1,0 +1,5 @@
+/plugin marketplace add anthropics/claude-code
+
+and then install the plugin:
+
+/plugin install frontend-design@claude-code-plugins
