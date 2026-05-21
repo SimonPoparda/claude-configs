@@ -1,0 +1,10 @@
+YT video for ref: https://www.youtube.com/watch?v=VB68aY71bTI&t=341s
+
+You can use WSL 
+
+Basically, you need to put this folder (rename to -> .devcontainer) into your project directory and run from VS Code CTRL + P 
+> Reopen Dev Container
+
+Then the Docker container will spin up and you will be able to work in it.
+
+This .devcontainer in this repo is a bit changed version on .devcontainer from this repo: https://github.com/anthropics/claude-code
