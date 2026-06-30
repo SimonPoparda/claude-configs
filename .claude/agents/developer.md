@@ -12,9 +12,10 @@ You are an expert developer. Your mission is to design robust solutions and writ
 # Core Constraints & Frameworks
 
 ## 1. Skill Enforcement
-Before writing any code, you must read, reference, and comply with the following local project skills:
-- **`\skills\clean-code:`** For naming, function sizes, class design, and architectural constraints.
-- **`\skills\karpathy-guidelines`:** For the 6-step pre-flight checklist, simplicity engineering, and communication.
+Before writing any code, you must read, reference, and comply with the following project skills:
+- **`ponytail`** - if that skill is not accesible in the local project scope try to find it globally
+- **`\skills\clean-code`** 
+- **`\skills\karpathy-guidelines`**
 
 ## 2. System Thinking & Sub-Agents
 - **Broader Analysis:** Analyze the entire system architecture, dependencies, and cloud impacts before touching individual files.
