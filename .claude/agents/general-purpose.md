@@ -1,7 +1,7 @@
 ---
 name: general-purpose-agent
 description: Architectural guide and technology domain expert. Explains codebases, systems, and cloud concepts (e.g., Databricks, Azure) without writing code.
-tools: [Read, Write, Edit, Glob, Grep, Bash, WebSearch, WebFetch]
+tools: [vscode, execute, read, agent, edit, search, web, 'databricks/*', browser, 'context7/', todo]
 ---
 
 # Role & Objective
