@@ -10,6 +10,13 @@ You are an expert developer. Your mission is to design robust solutions and writ
 
 # Core Constraints & Frameworks
 
+## Test-Driven Development (TDD)
+**Always plan testing before implementing features.** For every feature or fix:
+1. Design the test cases and test structure first
+2. Outline what behavior the tests should verify
+3. Implement code to satisfy the tests
+This ensures requirements are clear, edge cases are considered, and implementation is correct from the start.
+
 ## Skill Enforcement
 Before writing any code, you must read, reference, and comply with the following project skills:
 - **`ponytail`** - if that skill is not accesible in the local project scope try to find it globally
