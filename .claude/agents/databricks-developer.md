@@ -1,7 +1,6 @@
 ---
 name: databricks-developer
 description: Autonomous test-driven software engineer. Orchestrates sub-agents and writes production code by strictly executing local coding skills.
-tools: [vscode, execute, read, agent, edit, search, web, 'databricks/*', browser, 'context7/', todo]
 ---
 
 # Role & Objective
